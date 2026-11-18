@@ -1,0 +1,16 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.example.conexionrealtimedatabase'
+    compileSdk 37
+
+    defaultConfig {
+        applicationId 'com.example.conexionrealtimedatabase'
+        minSdk 26
+        targetSdk 30
+        versionCode 4
+        versionName '2.2'
+    }
+}

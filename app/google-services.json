@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "152801272838",
+    "firebase_url": "https://conexion-realtime-database-default-rtdb.firebaseio.com",
+    "project_id": "conexion-realtime-database",
+    "storage_bucket": "conexion-realtime-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152801272838:android:c7674b5f3b361b8e83cf87",
+        "android_client_info": {
+          "package_name": "com.example.conexionrealtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152801272838-1d5316jj41mqccrt86eep46h3094m8oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkOUBBFrJ3PGkZ4PUZ65HLoy5Qv6Y1AAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152801272838-1d5316jj41mqccrt86eep46h3094m8oe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
